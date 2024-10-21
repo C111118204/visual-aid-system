@@ -13,7 +13,7 @@
 3. 額外訓練增加AI準確度
 
 ## 功能分解圖(functional decomposition diagram, FDD 如 ppt p38)
-![功能分解圖](images/功能分解圖.PNG)
+![功能分解圖](images/功能分解圖.png)
 
 ## 使用案例圖 三個以上的使用案例說明 (如 ppt p 44)
 ![使用案例圖](images/使用案例圖.PNG)
