@@ -1,6 +1,8 @@
 # 小組作業4:
 
 ## 繪出系統環境圖 (DFD)
+![image](https://github.com/user-attachments/assets/7ea84edb-aa30-4047-a004-7fafac1007d6)
+
 [example](https://lucid.app/lucidchart/8dedf4c3-5f60-4c8a-b19c-889225e00b1c/edit?shared=true&page=0_0#)
 
 ## 繪製DFD 圖0 (須至少有三項以上的 程序)
