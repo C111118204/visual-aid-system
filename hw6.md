@@ -12,4 +12,4 @@
 
 
 ![視障者](images/視障者.PNG)
-![照促者](images/照顧者.PNG)
+![照顧者](images/照顧者.PNG)
