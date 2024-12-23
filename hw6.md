@@ -9,3 +9,7 @@
 列出所有螢幕與報表列印的欄位之名稱與功能
 
 ![image](https://github.com/user-attachments/assets/51fe7a09-55cf-4af0-8df6-85e6abe1c596)
+
+
+![視障者](images/視障者.PNG)
+![照促者](images/照顧者.PNG)
